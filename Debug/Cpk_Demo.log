@@ -1,0 +1,42 @@
+﻿生成启动时间为 2017/11/15 15:44:05。
+     1>项目“D:\软件\调试\Cpk_Demo\Cpk_Demo\Cpk_Demo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Cpk_Demo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Cpk_DemoDlg.cpp
+         Cpk_DemoDlg.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\软件\调试\Cpk_Demo\Debug\Cpk_Demo.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" opencv_world320d.lib "libzbar-0.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\软件\调试\Cpk_Demo\Debug\Cpk_Demo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\软件\调试\Cpk_Demo\Debug\Cpk_Demo.lib" /MACHINE:X86 Debug\Cpk_Demo.res
+         Debug\CChartCustomLabelStandardAxis.obj
+         Debug\ChartAxisSerie.obj
+         Debug\ChartAxisLabelSerie.obj
+         Debug\ChartBarSerie.obj
+         Debug\ChartCandlestickSerie.obj
+         Debug\ChartCrossHairCursor.obj
+         Debug\ChartCtrl.obj
+         Debug\ChartCursor.obj
+         Debug\ChartDateTimeAxis.obj
+         Debug\ChartDragLineCursor.obj
+         Debug\ChartFontSerie.obj
+         Debug\ChartGanttSerie.obj
+         Debug\ChartGradient.obj
+         Debug\ChartGridSerie.obj
+         Debug\ChartLegend.obj
+         Debug\ChartLineSerie.obj
+         Debug\ChartLogarithmicAxis.obj
+         Debug\ChartPointsSerie.obj
+         Debug\ChartRectangleSubSerie.obj
+         Debug\ChartScrollBar.obj
+         Debug\ChartSerie.obj
+         Debug\ChartStandardAxisSerie.obj
+         Debug\ChartSurfaceSerie.obj
+         Debug\ChartTitle.obj
+         Debug\ChartXYSerie.obj
+         Debug\ChartFormSerie.obj
+         Debug\Cpk_Demo.obj
+         Debug\Cpk_DemoDlg.obj
+         Debug\stdafx.obj
+         Cpk_Demo.vcxproj -> D:\软件\调试\Cpk_Demo\Debug\Cpk_Demo.exe
+     1>已完成生成项目“D:\软件\调试\Cpk_Demo\Cpk_Demo\Cpk_Demo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.00
